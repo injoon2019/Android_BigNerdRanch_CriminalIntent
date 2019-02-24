@@ -38,4 +38,8 @@ public class Crime {
     public void setSolved(boolean solved) {
         mSolved = solved;
     }
+
+    public void setTitle(String title) {
+        mTitle = title;
+    }
 }
